@@ -1,0 +1,202 @@
+### **Zebracat Pricing Page: Usage Calculator – Full Text Description**
+
+The **Zebracat Pricing Page: Usage Calculator** is a dedicated section of the Zebracat website designed to help users estimate their video creation needs and determine the most suitable pricing plan. This page is a critical tool for potential customers, offering transparency, clarity, and a personalized experience to guide them toward the right subscription tier. Below is a comprehensive description of the page’s elements, features, themes, colors, components, and functionality.
+
+---
+
+### **Page Overview**
+The **Usage Calculator** page is a visually engaging, interactive, and user-friendly interface that combines functionality with aesthetic appeal. It is designed to simplify the decision-making process for users by providing a clear breakdown of their potential usage and the corresponding pricing plans. The page is structured to align with Zebracat’s brand identity, emphasizing simplicity, innovation, and trust.
+
+---
+
+### **Page Layout and Structure**
+The page is divided into several key sections, each serving a specific purpose:
+
+1. **Hero Section**
+2. **Usage Calculator Tool**
+3. **Plan Recommendations**
+4. **Detailed Plan Comparison**
+5. **FAQs**
+6. **Call-to-Action (CTA) Buttons**
+7. **Footer**
+
+---
+
+### **1. Hero Section**
+The **Hero Section** is the first visual element users encounter. It is designed to capture attention and provide immediate context for the page.
+
+- **Headline:**  
+  *"Find the Perfect Plan for Your Video Creation Needs"*  
+  This headline is bold, concise, and action-oriented, encouraging users to engage with the calculator.
+
+- **Subheadline:**  
+  *"Use our interactive calculator to estimate your monthly usage and discover the best plan for your goals."*  
+  The subheadline provides additional context, explaining the purpose of the page and guiding users to take action.
+
+- **Visuals:**  
+  The background features a dynamic, AI-generated video montage showcasing Zebracat’s capabilities, such as text-to-video, AI avatars, and automated editing. The visuals are subtle yet engaging, reinforcing the platform’s innovative nature.
+
+- **Color Palette:**  
+  The hero section uses Zebracat’s primary brand colors:  
+  - **Primary Color:** Deep Blue (#1A73E8) – Represents trust and professionalism.  
+  - **Secondary Color:** Vibrant Orange (#FF6D00) – Adds energy and highlights key elements like CTAs.  
+  - **Background Gradient:** A soft gradient transitioning from light blue to white, creating a modern and clean aesthetic.
+
+- **Call-to-Action (CTA):**  
+  A prominent button labeled *"Start Calculating"* is placed below the subheadline. The button is orange with white text, ensuring high visibility. Hover effects include a slight shadow and color shift to enhance interactivity.
+
+---
+
+### **2. Usage Calculator Tool**
+The **Usage Calculator Tool** is the centerpiece of the page, offering an interactive experience for users to estimate their video creation needs.
+
+#### **Key Features of the Calculator:**
+- **Input Fields:**  
+  Users can input their estimated monthly usage across several categories:  
+  1. **Number of Videos:** Slider or input field to specify the number of videos they plan to create monthly.  
+  2. **Video Length:** Dropdown menu to select average video length (e.g., 30 seconds, 1 minute, 2 minutes, 5+ minutes).  
+  3. **Resolution:** Options for 720p or 1080p video quality.  
+  4. **AI Features:** Checkboxes for additional features like AI avatars, voice cloning, and custom styles.  
+
+- **Dynamic Results Display:**  
+  As users adjust the inputs, the calculator dynamically updates the estimated monthly credit usage and recommends the most suitable plan. The results are displayed in real-time, with a progress bar showing how close the user is to exceeding the limits of each plan.
+
+- **Tooltips and Guidance:**  
+  Each input field includes a tooltip or info icon that provides additional context. For example:  
+  - *"Each minute of video consumes 1 credit. High-resolution videos (1080p) may require additional credits."*  
+  - *"AI avatars and voice cloning are premium features available in Cat Mode and Super Cat plans."*
+
+- **Visual Feedback:**  
+  The calculator uses color-coded indicators to show whether the user’s estimated usage aligns with the Free, Cat Mode, or Super Cat plan. For example:  
+  - **Green:** Within the Free plan limits.  
+  - **Yellow:** Approaching Cat Mode limits.  
+  - **Red:** Exceeds Cat Mode, recommending Super Cat.
+
+- **Reset Button:**  
+  A small *"Reset"* button allows users to clear their inputs and start over.
+
+---
+
+### **3. Plan Recommendations**
+Based on the user’s inputs, the calculator provides a personalized recommendation for the most suitable plan.
+
+#### **Key Elements:**
+- **Recommended Plan Card:**  
+  A visually distinct card highlights the recommended plan, including:  
+  - Plan name (e.g., *"Super Cat Plan"*).  
+  - Monthly credit allowance.  
+  - Key features (e.g., *"Unlimited AI Avatars, Voice Cloning, 1080p Exports"*).  
+  - Pricing details (e.g., *"$49/month"*).  
+
+- **Alternative Plans:**  
+  Below the recommended plan, smaller cards display the other available plans (Free and Cat Mode) for comparison. Each card includes:  
+  - Plan name.  
+  - Credit allowance.  
+  - Key features.  
+  - Pricing.  
+
+- **CTA Buttons:**  
+  Each plan card includes a CTA button:  
+  - *"Choose Free Plan"* (for Free plan).  
+  - *"Upgrade to Cat Mode"* (for Cat Mode).  
+  - *"Get Super Cat"* (for Super Cat).  
+
+---
+
+### **4. Detailed Plan Comparison**
+This section provides a comprehensive comparison of all three plans (Free, Cat Mode, Super Cat) in a table format.
+
+#### **Table Columns:**
+1. **Feature:** Lists key features (e.g., *"Video Credits," "Resolution," "AI Avatars," "Voice Cloning"*).  
+2. **Free Plan:** Details what’s included in the Free plan.  
+3. **Cat Mode:** Highlights additional features and limits.  
+4. **Super Cat:** Showcases premium features and higher limits.
+
+#### **Design Elements:**
+- The table uses alternating row colors (light gray and white) for readability.  
+- Key features are highlighted with icons (e.g., a checkmark for included features, a dash for excluded ones).  
+- A *"Learn More"* link is provided for each feature, directing users to relevant feature pages.
+
+---
+
+### **5. FAQs**
+The **FAQs** section addresses common questions related to the usage calculator and pricing plans.
+
+#### **Sample Questions:**
+1. *"How are credits calculated?"*  
+2. *"Can I switch plans later?"*  
+3. *"What happens if I exceed my credit limit?"*  
+4. *"Are there discounts for annual subscriptions?"*  
+
+#### **Design Elements:**
+- Each question is presented in an accordion format, allowing users to expand or collapse answers.  
+- Icons (e.g., a plus sign for collapsed, a minus sign for expanded) enhance usability.  
+- The section uses a light gray background to differentiate it from the rest of the page.
+
+---
+
+### **6. Call-to-Action (CTA) Buttons**
+CTAs are strategically placed throughout the page to encourage user engagement.
+
+#### **Primary CTAs:**
+- *"Start Calculating"* (Hero Section).  
+- *"Choose Free Plan"* / *"Upgrade to Cat Mode"* / *"Get Super Cat"* (Plan Recommendations).  
+
+#### **Secondary CTAs:**
+- *"Explore Features"* – Links to the Features page.  
+- *"View All Plans"* – Links to the main Pricing page.  
+- *"Contact Support"* – Opens a chat widget or directs to the Contact page.
+
+---
+
+### **7. Footer**
+The footer provides quick access to other sections of the website and essential links.
+
+#### **Key Elements:**
+- **Quick Links:**  
+  - About Us  
+  - AI Research  
+  - Ethics  
+  - Careers  
+  - Blog  
+
+- **Legal Links:**  
+  - Privacy Policy  
+  - Terms and Conditions  
+  - Imprint  
+
+- **Social Media Icons:**  
+  Links to LinkedIn, YouTube, Instagram, TikTok, and Twitter.  
+
+- **Newsletter Signup:**  
+  A simple form with a CTA: *"Subscribe for Updates."*  
+
+---
+
+### **Themes and Colors**
+The page adheres to Zebracat’s brand identity, using a cohesive color palette and modern design elements.
+
+- **Primary Colors:**  
+  - Deep Blue (#1A73E8) – Used for headings, buttons, and key highlights.  
+  - Vibrant Orange (#FF6D00) – Used for CTAs and interactive elements.  
+
+- **Secondary Colors:**  
+  - Light Gray (#F5F5F5) – Used for backgrounds and section dividers.  
+  - Dark Gray (#333333) – Used for text and icons.  
+
+- **Typography:**  
+  - **Headings:** Sans-serif font (e.g., Inter or Roboto) in bold weights.  
+  - **Body Text:** Clean, readable sans-serif font in regular weights.  
+
+---
+
+### **Interactive Components**
+- **Sliders and Dropdowns:** Used in the calculator for user inputs.  
+- **Tooltips:** Provide additional context for input fields.  
+- **Accordions:** Used in the FAQs section for expandable content.  
+- **Hover Effects:** Enhance interactivity for buttons and cards.  
+
+---
+
+### **Conclusion**
+The **Zebracat Pricing Page: Usage Calculator** is a meticulously designed, user-centric tool that combines functionality with aesthetic appeal. It empowers users to make informed decisions about their subscription plans while showcasing Zebracat’s innovative capabilities. By providing transparency, interactivity, and personalized recommendations, the page enhances user trust and drives conversions.
